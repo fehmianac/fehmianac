@@ -5,7 +5,6 @@ Hello there! I'm Fehmi Anaç, a backend enthusiast with a focus on scalability, 
 ## About Me
 
 - 📧 Email: fehmianac@gmail.com
-- 😄 Pronouns: he
 
 A little bit about me: I specialize in building scalable backend systems using AWS, diving into serverless architectures, and working with technologies like PubSub, DynamoDB, C#, and Golang to create efficient and robust solutions.
 
